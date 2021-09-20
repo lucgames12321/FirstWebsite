@@ -1,1 +1,0 @@
-<h1>Welkom op de Website van Luc Stoffels!</h1>

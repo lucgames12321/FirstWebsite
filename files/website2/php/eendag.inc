@@ -1,1 +1,0 @@
-<img class="dagboek" src="img/dagboek26112020.jpg" alt="Dagboek">
